@@ -1,3 +1,1 @@
-# project-1
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SiteSprinkle/project-1)
+A class monitering and displaying system
